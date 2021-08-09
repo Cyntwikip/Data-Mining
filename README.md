@@ -9,6 +9,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/basic-preprocessing.ipynb">Basic Preprocessing</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/regex.ipynb">Regular Expressions</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/regex-quiz.ipynb">Quiz: Regular Expressions</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/content_based.ipynb">Content-Based Filtering</a>
 
 <br>
 <sup>for comments, corrections, suggestions, please email: <href>judemichaelteves@gmail.com</href> or <href>jude.teves@dlsu.edu.ph</href></sup>
