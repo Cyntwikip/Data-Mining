@@ -11,6 +11,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/regex-quiz.ipynb">Quiz: Regular Expressions</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/content_based.ipynb">Content-Based Filtering</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/similarity_metrics.ipynb">Similarity Metrics</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/collaborative_filtering.ipynb">Collaborative Filtering</a>
 
 <br>
 <sup>for comments, corrections, suggestions, please email: <href>judemichaelteves@gmail.com</href> or <href>jude.teves@dlsu.edu.ph</href></sup>
