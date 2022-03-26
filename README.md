@@ -8,6 +8,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/scraping/selenium.ipynb">Selenium: Scraping Dynamic Webpages</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/basic-preprocessing.ipynb">Basic Preprocessing</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/regex.ipynb">Regular Expressions</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/handling-text-inconsistencies.ipynb">Handling Text Inconsistencies</a>
 
 <br>
 <sup>for comments, corrections, suggestions, please email: <href>judemichaelteves@gmail.com</href> or <href>jude.teves@dlsu.edu.ph</href></sup>
