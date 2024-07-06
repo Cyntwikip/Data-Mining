@@ -11,6 +11,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/handling-text-inconsistencies.ipynb">Handling Text Inconsistencies</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/feature-engineering.ipynb">Feature Engineering</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/preprocessing/regex-quiz.ipynb">Quiz: Regular Expressions</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/association_rule_learning/association_rule_learning.ipynb">Association Rule Learning</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/association_rule_learning/association_rule_learning_homework.ipynb">Association Rule Learning Homework</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/content_based.ipynb">Content-Based Filtering</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/similarity_metrics.ipynb">Similarity Metrics</a>
