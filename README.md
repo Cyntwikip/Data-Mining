@@ -24,6 +24,7 @@ You may immediately play around with the notebook through Google Colaboratory. H
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/recommender_systems/collaborative_filtering.ipynb">Collaborative Filtering</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/ml_python.ipynb">Classification and Regression</a>
 - <a href="https://colab.research.google.com/github/Cyntwikip/Data-Mining/blob/main/clustering/clustering.ipynb">Clustering</a>
+- <a href="https://colab.research.google.com/github/Cyntwikip/Machine-Learning/blob/main/outlier_detection.ipynb">Outlier Detection</a>
 
 <br>
 <sup>for comments, corrections, suggestions, please email: <href>judemichaelteves@gmail.com</href> or <href>jude.teves@dlsu.edu.ph</href></sup>
